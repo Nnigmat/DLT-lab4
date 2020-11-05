@@ -12,7 +12,7 @@ DLT lab 5, exercise 2: Salavat Dinmukhametov, Roman Solovev, Muhammad Mavlyutov,
         - Added missing functions: mine_unconfirmed_transactions, new_transaction
     - Assumptions:
         - Author of the content: name of the sender
-        - In the content: "<name-of-receiver> <amount>"
+        - In the content: "name-of-receiver amount"
 
 
 3. What is missing the part in the previous code ?
